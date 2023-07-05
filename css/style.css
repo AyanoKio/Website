@@ -37,7 +37,7 @@ html {
 }
 
 body {
-    color: #000;
+    color: black;
     font-size: 14px;
     font-family: Raleway;
     line-height: 1.80857;
@@ -233,8 +233,7 @@ button {
 
 .menu_text {
     width: 100%;
-    float: left;
-    margin-left: 500px;
+    float: right;
     margin-top: 30px;
 }
 
@@ -256,9 +255,9 @@ button {
 }
 
 .banner_section {
-    width: 101%;
+    width: 100%;
     float: left;
-    background-color: #efefef;
+    background-color: darkgray;
     height: auto;
 }
 
@@ -317,7 +316,6 @@ button {
 
 .logo {
     position: relative;
-    left: -350px;
     width: 100px;
     height: 100px;
     margin-top: 10px;
@@ -379,7 +377,7 @@ button {
 .contact_bt a{
     width: 50%;
     float: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #ff6633;
     border: 1px solid#fff;
     border-radius: 5px;
@@ -393,7 +391,7 @@ button {
 }
 
 .contact_bt a {
-    color: #000;
+    color: white;
 }
 
 .contact_bt a:hover {
@@ -429,8 +427,8 @@ button {
 .about_section {
     width: 101%;
     float: left;
-    background-color: #efefef;
-    color: black;
+    background-color: darkgrey;
+    color: darkgray;
     height: auto;
     margin-left: -15px;
 }
@@ -494,7 +492,7 @@ button {
 .our_section {
     width: 100%;
     float: left;
-    background-color: #efefef;
+    background-color: darkgray;
     height: auto;
 }
 
@@ -502,7 +500,7 @@ button {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #efefef;
+    color: darkgrey;
     margin-left: 0px;
     text-align: center;
     font-weight: bold;
@@ -532,8 +530,8 @@ button {
     background-size: 100%;
     margin-top: 0px;
     padding-bottom: 80px;
-    background-color: #efefef;
-    color: #efefef;
+    background-color: darkgrey;
+    color: darkgrey;
 }
 
 .partner_text {
@@ -593,7 +591,7 @@ button {
     text-align: center;
     font-size: 40px;
     color: #0b0e13;
-    border-bottom: 1px solid #e05306;
+    border-bottom: 1px solid #000;
     text-align: center;
 }
 
@@ -691,7 +689,7 @@ button {
 .contact_section {
     width: 500px;
     float: left;
-    background-color: #efefef;
+    background-color: darkgrey;
     height: 480px;
 }
 
@@ -777,11 +775,12 @@ textarea#comment.massage-bt::placeholder {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #efefef;
+    background-color: darkgrey;
     height: auto;
     margin-top: 90px;
     padding-bottom: 80px;
 }
+
 
 .input-group>.input-group-append>.btn,
 .input-group>.input-group-append>.input-group-text,
@@ -955,6 +954,7 @@ textarea#comment.massage-bt::placeholder {
     top: 20px;
     right: 45px;
     font-size: 60px;
+    color: white;
 }
 
 .overlay-content {
@@ -963,13 +963,14 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     text-align: center;
     margin-top: 30px;
+    color: white;
 }
 
 .overlay a {
     padding: 0px;
     text-decoration: none;
     font-size: 22px;
-    color: #000;
+    color: #fff;
     display: block;
     transition: 0.3s;
 }
@@ -1009,6 +1010,7 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  margin-top: 20px;
 }
 
 input[type=submit]:hover {
@@ -1021,4 +1023,19 @@ input[type=submit]:hover {
 
 .container:hover .overlay {
     opacity: 1;
+}
+
+a[href="tel:123-456-7890"] {
+    background-color: red;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+a[href="tel:123-456-7890"]:hover {
+    background-color: darkred;
 }

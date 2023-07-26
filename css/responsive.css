@@ -1,0 +1,637 @@
+@media screen and (max-width: 1300px) and (min-width: 200px) {
+    
+    .line {
+        display:none;
+    }
+    
+    img.banner {
+        display:none;
+    }
+    
+    img.logoimg {
+        display: none;
+    }
+    
+    .col-sm-2 {
+        display:none;
+    }
+    
+    .mtext {
+        display:none;
+    }
+    
+    
+    .header_section1 {
+    width: 100%;
+    float: left;
+    background-color: #1B1B1B;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+    
+    
+    .agb-title {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.agb-text {
+    padding-left: 0px;
+    width: 100%;
+    padding-right: 30px;
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 12px;
+}
+
+
+.agb-text li {
+    padding-left: 0px;
+    margin-left: 20px;
+    width: 100%;
+    padding-right: 10px;
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 12px;
+}
+    
+.weirdtext {
+    margin-left: -20px;
+    width: 100%;
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 12px;
+} 
+    
+.daten-title {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.daten-text {
+    padding-left: 0px;
+    width: 95%;
+    padding-right: 30px;
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 12px;
+    
+}
+
+
+.daten-text li {
+    padding-left: 0px;
+    margin-left: 20px;
+    width: 100%;
+    padding-right: 10px;
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 12px;
+    padding: 2.5px;
+}
+
+
+.datenstart {
+    padding-left: 10px;
+    width: 100%;
+    padding-right: 10px;
+    text-align: justify;
+    font-size: 12px;
+}    
+    
+
+.imp-title {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.impp-text {
+    padding-left: 20px;
+    width: 95%;
+    padding-right: 0px;
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 12px;
+    padding-bottom: 20px;
+    
+}    
+    
+    
+    
+    .menu_text {
+    width: 100%;
+    float: right;
+    margin-top: 30px;
+    margin-left: -700px;
+}
+    
+    .carousel{
+        display: none;
+    }
+    
+    .phonecarousel1,.phonecarousel2,.phonecarousel3 {
+    display: block;
+    width: 100%;
+    float: right;
+    background-color: #fff;
+    height: auto;
+}
+
+.welcome {
+    display: block;
+    width: 100%;
+    float: right;
+    background-color: #fff;
+    height: auto;
+    margin-top: -105px;
+}
+    
+    
+.construction_text {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+    margin-left: 200px;
+    
+}
+
+.building_text {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 18px;
+    color: #000;
+    font-style: italic;
+    margin-left: 200px
+}
+    
+     img.resimg {
+        display: block;
+         margin-left: 0px;
+         max-width:100%;
+    }
+
+.lorem_text {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 14px;
+    color: #000;
+    line-height: normal;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    text-align: justify;
+    padding-bottom: 0px;
+}
+    
+    .lorep_text {
+    margin-top: 200px;
+    width: 100%;
+    font-size: 22px;
+    color: #000;
+    line-height: normal;
+    margin-left: 200px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+    
+.construction_text2 {
+    margin-top: 90px;
+    width: 100%;
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+    margin-left: 200px;
+}
+    
+.client_long_text {
+    font-size: 14px;
+    text-align: center;
+}
+
+.lorem_text2 {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 14px;
+    color: #000;
+    line-height: normal;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    text-align: justify;
+}
+    
+    
+.construction_text3 {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+.lorem_text3 {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 14px;
+    color: #000;
+    line-height: normal;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    text-align: justify;
+}
+
+
+.lorem_text3 ul,li {
+    margin-left: -20px;
+    padding: 3.5px;
+    font-size: 12px;
+    text-align: justify;
+}
+    
+    
+.about_text {
+    width: 150%;
+    float: left;
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+    margin-top: -60px;
+    margin-left: -115px;
+}
+    
+.under {
+    font-size: 20px;
+    float: center;
+    margin-left: 50px;
+}    
+    
+.long_text {
+    width: 155%;
+    float: left;
+    font-size: 14px;
+    color: #000;
+    margin-left: -115px;
+    padding-top: 0px;
+    margin-top: -10px;
+} 
+    
+.imgtext {
+    display: block;
+    margin-left: 10px;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 0px;
+    }
+    
+.imgtitle {
+    display: block;
+    margin-left: 10px;
+    font-size: 30px;
+    text-align: justify;
+    margin-top: -250px;
+    }
+
+    
+.about_section {
+    width: 101%;
+    float: left;
+    background-color: #fff;
+    color: #fff;
+    height: auto;
+    margin-left: -5px;
+}
+    
+
+
+    
+    img.toggle_menu {
+        float: right;
+        margin-right: 30px;
+        margin-top: -50px;
+        display: block;
+    }
+    
+    .copyright_text {
+       width: 100%;
+    }
+    
+    .taital_main {
+    width: 100%;
+    margin-top: -80px;
+    margin-left: -185px
+}
+
+
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: 0px;
+    }
+    
+    
+    
+#name {
+    border: 1px solid darkblue;
+    width: 90%;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+
+#email {
+    border: 1px solid darkblue;
+    width: 90%;
+    margin-left:  23px;
+}
+
+#subject {
+    border: 1px solid darkblue;
+    width: 90%;
+    margin-left:  23px;
+}
+
+#address {
+    border: 1px solid darkblue;
+    width: 90%;
+    margin-top: 15px;
+    margin-left:  23px;
+}
+
+#phone {
+    border: 1px solid darkblue;
+    width: 90%;
+    height: 50px;
+    margin-left:  23px;
+}
+
+.formmail { 
+    width: 100%;
+    font-size: 40px;
+    color: #000;
+    font-weight: bold;
+    margin-left:  3px;
+}
+
+.map_text {
+        width: 110%;
+        font-size: 19px;
+    }
+    
+.container-fluid {
+    margin-left: -15px;
+}
+    
+.container-fluid1 {
+    margin-left: -15px;
+    padding-bottom: 100px;
+    padding-right: 15px;
+}
+    
+.container-fluid2 {
+    margin-left: -15px;
+    padding-bottom: 0px;
+    padding-right: 15px;
+}
+    
+.container-fluid3 {
+    margin-left: -15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
+
+    
+.contact_section {
+        height: 910px;
+    }
+
+    
+    .map {
+        display: block;
+        width: 355px;
+        height: 200px;
+        margin-top: 0px;
+        margin-left: 23px;
+        
+    }    
+    
+    .call {   
+        margin-top: 0px;
+        float: left;
+        margin-right: 0px;
+        padding-left: 0px;
+        width: 100%;
+    }
+    
+    .call2 {   
+        margin-top: -10px;
+        float: right;
+        margin-right: 135px;
+        padding-left: 0px;
+        width: 100%;
+        display: none;
+    }
+    
+    .callextra {   
+        margin-top: -40px;
+        float: right;
+        margin-right: -180px;
+        padding-left: 0px;
+        width: 100%;
+        display:none;
+    }
+    
+    .our_text {
+        width: 100%;
+    }
+    
+.call3 {
+    color: #1B1B1B;
+    margin-left: 20px;
+    font-size: 20px;
+    float: left;
+    padding-top: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+    width: 100%;
+    }
+    
+    .about_img {
+        display: none;
+    }
+    
+    .about_bt,.contact_bt {
+        display: none;
+    }
+    
+.sendbutton {
+    width: 50%;
+    float: left;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: -4px;
+    margin-left: 22px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+    
+    .addres_text {
+        margin-left: 0px;
+    }
+    
+    }
+
+
+
+@media (max-width:1500) {
+    
+      .last {
+        display: none;
+    }
+    .carousel-caption {
+        display: none;
+    }
+    .header {
+        padding-top: 0px;
+    }
+    .logo {
+        float: inherit;
+        padding-bottom: 15px;
+        text-align: center;
+        display: none;
+    }
+    .btn-primary {
+        max-width: 126px;
+        margin-right: 2px;
+        font-size: 14px;
+    }
+    .banner-main .carousel-caption h1 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .titlepage h2 {
+        font-size: 27px;
+    }
+    .sporrt_text {
+        font-size: 23px;
+        margin-top: 0px;
+    }
+    .main {
+        width: 30%;
+    }
+    .btn_main {
+        margin-top: 30px;
+        padding-bottom: 30px;
+        width: 55%;
+    }
+    #main_slider a.carousel-control-prev {
+        position: absolute;
+        left: 175px;
+        top: 90%;
+        display: none;
+    }
+    #main_slider a.carousel-control-next {
+        position: absolute;
+        left: 236px;
+        top: 90%;
+        display: none;
+    }
+    .titlepage h2::after {
+        width: 93%;
+    }
+    .about-box .titlepage h2::after {
+        width: 238px;
+        right: -50px;
+    }
+    .Gallery .titlepage h2 {
+        font-size: 47px;
+    }
+    .Gallery .titlepage h2::after {
+        width: 89%;
+    }
+    .paddimg-right {
+        padding-right: 15px;
+    }
+    .paddimg-left {
+        padding-left: 15px;
+    }
+    .Nursery-img .text-box h3 {
+        font-size: 23px;
+        padding: 30px 14px;
+    }
+    .contact .titlepage h2::after {
+        left: -8px;
+        width: 281px;
+    }
+    .footer .headinga span {
+        font-size: 16px;
+    }
+    .menu-bottom {
+        margin-bottom: 45px;
+    }
+    ul.link li {
+        padding: 8px 12px;
+        padding-bottom: 0px;
+    }
+    .logo {
+        position: inherit;
+        left: -40px;
+        display:none;
+    }
+    .round {
+        display: none;
+    }
+    .line {
+        display: none;
+    }
+    .number_text {
+        display: none;
+    }
+    .building_text {
+        display: none;
+    }
+    .menu_text li {
+        display: none;
+    }
+    .toggle_menu {
+        top: -68px;
+        position: relative;
+        left: 240px;
+    }
+    .menu_text {
+        height: 0px;
+    }
+    .construction_text {
+        font-size: 30px;
+    }
+    .lorem_text {
+        display: none;
+    }
+    .taital_main {
+        margin-top: 30px;
+    }
+    .contact_bt {
+        display: none;
+    }
+    .get_bt {
+        display: none;
+    }
+    #carouselExampleIndicators a.carousel-control-prev {
+        left: -2%;
+        top: 225px;
+    }
+    #carouselExampleIndicators a.carousel-control-next {
+        left: 0%;
+        top: 300px;
+}
+
+
+
+
+
+

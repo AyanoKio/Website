@@ -1018,6 +1018,13 @@ textarea#comment.massage-bt::placeholder {
     font-size: 25px;
 }
 
+.map_call {
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+
 .linkimp {
     font-size: 20px;
     color: #fff;

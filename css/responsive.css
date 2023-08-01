@@ -8,9 +8,6 @@
         display:none;
     }
     
-    img.logoimg {
-        display: none;
-    }
     
     .col-sm-2 {
         display:none;
@@ -21,14 +18,19 @@
     }
     
     
-    .header_section1 {
+.header_section {
     width: 100%;
     float: left;
-    background-color: #1B1B1B;
+    background: #1B1B1B;
     height: auto;
     padding-top: 15px;
     padding-bottom: 0px;
+    z-index: 100;
+    
 }
+    
+
+ 
     
     
     .agb-title {
@@ -75,9 +77,28 @@
     padding-right: 30px;
     text-align: justify;
     list-style-type: decimal;
-    font-size: 12px;
-    
+    font-size: 12px;  
 }
+    
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 62px;
+    background: #1B1B1B;
+}
+    
+.sticky + .welcome {
+  padding-top: 142px;
+}    
+
+.angebot {
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
 
 
 .daten-text li {
@@ -144,7 +165,7 @@
     float: right;
     background-color: #fff;
     height: auto;
-    margin-top: -105px;
+    margin-top: -40px;
 }
     
     
@@ -170,7 +191,8 @@
      img.resimg {
         display: block;
          margin-left: 0px;
-         max-width:100%;
+         max-width: 100%;
+         padding-top: 0px;
     }
 
 .lorem_text {
@@ -192,7 +214,7 @@
     color: #000;
     line-height: normal;
     margin-left: 200px;
-    margin-bottom: 45px;
+    margin-bottom: 0px;
     text-align: center;
 }
     
@@ -306,7 +328,45 @@
     margin-left: -5px;
 }
     
-
+.stichpunkt {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 22px;
+    color: #000;
+    line-height: normal;
+    margin-left: 140px;
+    margin-bottom: 0px;
+    text-align: justify;
+    background-size: 20px;
+} 
+    
+ .we {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 22px;
+    color: #000;
+    line-height: normal;
+    padding-left: 130px;
+        
+    }    
+    
+.stichpukt ul,li {
+    margin-left: 0px;
+    padding: 3.5px;
+    font-size: 22px;
+    text-align: justify;
+    background-size: 20px;
+}
+    
+.stichpunkt li{
+	margin: 0;
+	padding: 36px 0 36px 84px;
+	list-style: none;
+	background-image: url("arrow.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 70px;
+}    
 
     
     img.toggle_menu {
@@ -332,7 +392,10 @@
     height: 50px;
     margin-left: 0px;
     margin-top: 0px;
-    }
+    float: left;
+}
+    
+    
     
     
     

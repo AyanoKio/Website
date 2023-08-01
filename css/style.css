@@ -85,7 +85,10 @@ ol {
     margin: 0px;
     padding: 0px;
     list-style: none;
- 
+}
+
+ul.arrow {
+    list-style-image: url(arrow.png);
 }
 
 a {
@@ -177,11 +180,10 @@ button {
 
 .header_section {
     width: 100%;
-    float: left;
-    background-color: #1B1B1B;
+    background: #1B1B1B;
     height: auto;
-    padding-top: 15px;
-    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 10px;
 }
 
 .menu_text {
@@ -190,6 +192,8 @@ button {
     margin-top: 30px;
     margin-left: 700px;
 }
+
+
 
 .menu_text li {
     float: left;
@@ -1008,6 +1012,8 @@ textarea#comment.massage-bt::placeholder {
     color: #fff;
 }
 
+
+
 .under {
     font-size: 20px;
     float: center;
@@ -1024,6 +1030,8 @@ textarea#comment.massage-bt::placeholder {
     padding-top: 10px;
     
 }
+
+
 
 .linkimp {
     font-size: 20px;

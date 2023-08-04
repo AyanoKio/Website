@@ -1,4 +1,4 @@
-@media screen and (max-width: 1300px) and (min-width: 200px) {
+@media screen and (max-width: 800px) and (min-width: 200px) {
     
     .line {
         display:none;
@@ -555,8 +555,87 @@
     }
 
 
+@media screen and (max-width: 1600px) and (min-width: 900px) {
+    
+    .lorem_text{
+        width: 140%;
+    }
+    
+    .lorem_text2{
+        width: 140%;
+    }
+    
+    .taital_main{
+        margin-left: -140px;
+    }
+    
+    .menu_text{
+        padding-left: 350px;
+        margin-left: 80px;
+        width: 100%;
+        padding-top: 30px;
+        float: left;
+    }
+    
+    .logo{
+        margin-left: -80px;
+        padding-top: 20px;
+    }
+    
+    .map{
+        width: 80%;
+        height: 556px;
+    }
+    
+    .call3{
+        margin-left: 500px;
+    }
+    
+    img.banner{
+        width: 100%;
+    }
+    
+    .container-fluid{
+        margin-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .about_img{
+        margin-left: 0px;
+    }
+    
+    .about_section{
+        margin-left: 0px;
+    }
+    
+    .row{
+        margin-right: 0px;
+    }
+    
+    .long_text{
+        width: 130%;
+        font-size: 18px;
+        margin-left: -130px;
+    }
+    
+    .about_text {
+        margin-left: -130px;
+    }
+    
+    .about_bt{
+        display: none;
+    }
+    
+    .call2{
+        display:none;
+    }
+    
+    .under{
+        margin-left: 550px;
+    }
+}
 
-@media (max-width:1500) {
+@media (max-width:1700) {
     
       .last {
         display: none;
